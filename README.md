@@ -18,3 +18,4 @@ The hardcoded example uses this clipart image as input:
 After running, the output image will look similar to this:  
 <img src="https://github.com/jaydmairs/DeepDreamGenerator/blob/main/generated_dog.png?raw=true" width="500">  
 
+[Deep Dream]: <https://en.wikipedia.org/wiki/DeepDream>
